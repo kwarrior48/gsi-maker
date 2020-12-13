@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.0.2.0.QCDTRXM/dandelion_tr_global_images_V12.0.2.0.QCDTRXM_20201125.0000.00_10.0_global_80df207e11.tgz
+  ROM_URL: https://jztkft.dl.sourceforge.net/project/miroom/stable/V11.0/Redmi7_MIUI_V11.0.3.0.PFLCNXM_MiRoom_9.0.zip
   ROM_NAME: MIUI
   TZ: Asia/Kolkata
   MIR: wet
