@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://doc-10-8k-docs.googleusercontent.com/docs/securesc/g4jt7v410srrp87prtkd1odv8ntivl1m/tftgojhmc9qmnpkhmblh28c055rtuo4m/1607882100000/06965938690457968861/01209335615507499743/1-MKBVVwN4RZSEC-HUQz_DdoUlTtSl_kp?e=download&authuser=0&nonce=a8mkc06cfbomg&user=01209335615507499743&hash=kvaoo6i8jcii4g20bis73gjqfcmggc5m
+  ROM_URL: https://r6---sn-nv47ln7e.gvt1.com/packages/data/ota-api/nokia_b2nsprout_onyx00ww/105d70f18f853101a4e4d47f66b60a97318bc589.zip?cms_redirect=yes&mh=k0&mip=213.74.84.74&mm=31&mn=sn-nv47ln7e&ms=au&mt=1607882457&mv=m&mvi=6&pl=23
   ROM_NAME: Generıc
   TZ: Asia/Kolkata
   MIR: wet
