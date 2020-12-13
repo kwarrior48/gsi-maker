@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://jztkft.dl.sourceforge.net/project/xiaomi-eu-multilang-miui-roms/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv11/xiaomi.eu_multi_HM8A_V11.0.10.0.PCPCNXM_v11-9.zip
+  ROM_URL: https://bigota.d.miui.com/V11.0.7.0.PCPMIXM/olivelite_global_images_V11.0.7.0.PCPMIXM_20200530.0000.00_9.0_global_c80d9b0827.tgz
   ROM_NAME: MIUI
   TZ: Asia/Kolkata
   MIR: wet
