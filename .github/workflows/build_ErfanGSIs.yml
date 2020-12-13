@@ -5,8 +5,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://mirrors.lolinet.com/firmware/moto/kane/official/VFEU/XT1970-3_KANE_VFEU_9.0_PSAS29.137-17-2_subsidy-VFGB_regulatory-DEFAULT_CFC.xml.zip
-  ROM_NAME: Moto
+  ROM_URL: https://jztkft.dl.sourceforge.net/project/xiaomi-eu-multilang-miui-roms/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv11/xiaomi.eu_multi_HM8A_V11.0.10.0.PCPCNXM_v11-9.zip
+  ROM_NAME: MIUI
   TZ: Asia/Kolkata
   MIR: wet
   ZIP_NAME: Flyme-8
