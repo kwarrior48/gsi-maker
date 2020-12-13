@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V10.0.3.0.PDLMIXM/daisy_global_images_V10.0.3.0.PDLMIXM_20190114.0000.00_9.0_e8d8d4a6d0.tgz
+  ROM_URL: https://bigota.d.miui.com/V10.0.15.0.PDIMIXM/miui_JASMINEGlobal_V10.0.15.0.PDIMIXM_970d0e75b0_9.0.zip
   ROM_NAME: Generic
   TZ: Asia/Kolkata
   MIR: wet
