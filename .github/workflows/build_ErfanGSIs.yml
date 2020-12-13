@@ -6,7 +6,7 @@ on:
     
 env:
   ROM_URL: https://ava3.androidfilehost.com/dl/yMpCaiiPsq55MTAX749eiA/1607970530/4349826312261739511/LG+SISTEMAS+ROM+MOTOROLA+ONE+ACTION+XT2013-2++ANDROID+9.0.rar?
-  ROM_NAME: Generic
+  ROM_NAME: Moto
   TZ: Asia/Kolkata
   MIR: wet
   ZIP_NAME: Flyme-8
