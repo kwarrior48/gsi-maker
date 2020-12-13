@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V10.2.6.0.OCLMIXM/tiare_global_images_V10.2.6.0.OCLMIXM_20190218.0000.00_8.1_66cc42a821.tgz
+  ROM_URL: http://bigota.d.miui.com/V10.0.4.0.PDHMIXM/tissot_images_V10.0.4.0.PDHMIXM_20190104.0000.00_9.0_2cee840c96.tgz
   ROM_NAME: MIUI
   TZ: Asia/Kolkata
   MIR: wet
