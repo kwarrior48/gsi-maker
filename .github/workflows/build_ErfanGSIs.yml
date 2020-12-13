@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://ava3.androidfilehost.com/dl/b3AvfVLr_QEzfGM87mhblw/1607971868/5862345805528055766/TA-1046-B2N-132E-0-00WW-B07-QFIL.rar?
+  ROM_URL: https://deac-riga.dl.sourceforge.net/project/ctl-sprout/STOCK-ROMS/CTL-354H-0-00WW-B01-9.0-HB.zip
   ROM_NAME: Generic
   TZ: Asia/Kolkata
   MIR: wet
