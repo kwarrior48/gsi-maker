@@ -5,8 +5,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/V10.0.4.0.PDHMIXM/tissot_images_V10.0.4.0.PDHMIXM_20190104.0000.00_9.0_2cee840c96.tgz
-  ROM_NAME: MIUI
+  ROM_URL: https://drive.google.com/file/d/1-MKBVVwN4RZSEC-HUQz_DdoUlTtSl_kp/view
+  ROM_NAME: Generıc
   TZ: Asia/Kolkata
   MIR: wet
   ZIP_NAME: Flyme-8
