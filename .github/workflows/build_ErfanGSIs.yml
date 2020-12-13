@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V11.0.7.0.PCPMIXM/olivelite_global_images_V11.0.7.0.PCPMIXM_20200530.0000.00_9.0_global_c80d9b0827.tgz
+  ROM_URL: https://bigota.d.miui.com/V12.0.2.0.QCDTRXM/dandelion_tr_global_images_V12.0.2.0.QCDTRXM_20201125.0000.00_10.0_global_80df207e11.tgz
   ROM_NAME: MIUI
   TZ: Asia/Kolkata
   MIR: wet
