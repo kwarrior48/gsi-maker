@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://jztkft.dl.sourceforge.net/project/miroom/stable/V11.0/Redmi7_MIUI_V11.0.3.0.PFLCNXM_MiRoom_9.0.zip
+  ROM_URL: https://bigota.d.miui.com/V10.0.3.0.PDLMIXM/daisy_global_images_V10.0.3.0.PDLMIXM_20190114.0000.00_9.0_e8d8d4a6d0.tgz
   ROM_NAME: MIUI
   TZ: Asia/Kolkata
   MIR: wet
